@@ -1,5 +1,5 @@
 # cloud-skills-scraper
-Microsoft Cloud Skill Challenge Live Score Scraper
+Microsoft Cloud Skill Challenge Live Score Web Scraper
 
 Since the Microsoft Cloud Skill Challenge Leaderboard doesn't update in real time, the cloud-skills-scraper script will give you the latest rankings.
 
